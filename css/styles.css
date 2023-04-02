@@ -1,0 +1,134 @@
+body{
+    margin:0;
+    text-align:center;
+    font-family:'Merriweather', serif;
+    color:#40514E;
+
+}
+
+.bottom-cloud{
+    position:absolute;
+   bottom:300px;
+   left:250px;
+}
+.top-cloud{
+    position:absolute;
+    right:300px;
+    top:50px;
+}
+.topcontainer{
+    background-color: #E4F9F5;
+    position:relative;
+    padding-top:100px;
+    margin-bottom:50px;
+}
+
+h1{
+    color:#66BFBF;
+    margin:50px auto 0 auto;
+    font-family:'Sacramento', cursive;
+    font-size:562.5%
+
+}
+
+
+h2{
+    color:#66BFBF;
+    font-size:2.5rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight:normal;
+}
+h3{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+a{
+    color: #11999E;
+}
+hr{
+    border-style:none;
+   border-top-style:dotted;
+   border-color:grey;
+   border-width:5px;
+   width:4%;
+    
+}
+.languages{
+    float:left;
+    margin-right:40px;
+}
+.coding{
+    float:right;
+    margin-left:40px;
+}
+.skill-row{
+    width:50%;
+    margin:100px auto 150px auto;
+    text-align:left;
+    line-height:2;
+
+}
+.footer-link{
+    color:#11999E;
+}
+.bottom-container{
+    padding:30px;
+    background-color:#66BFBF;
+    
+}
+
+.copyright{
+    color:white;
+    font-size:10px;
+}
+
+.middle-container{
+    margin:50px;
+}
+
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4,  #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4,  #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4,  #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4,  #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4,  #11999e);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Courier New;
+    color: white;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin-top:30px;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+
+  .hobby-img{
+    width:20%;
+    float:left;
+    margin-right:50px;
+  }
+  .my-hobby{
+    width:50%;
+    margin:100px auto 150px auto;
+    text-align:left;
+    line-height:2;
+  }
+  .contact-message{
+    margin: 20px auto 40px auto;
+  }
+
+  .profile{
+    margin-bottom:40px;
+  }
